@@ -1,0 +1,19 @@
+{
+  "name": "eth-lottery-game",
+  "version": "1.0.0",
+  "description": "Lottery game for the Ethereum blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.1",
+    "ethers": "^5.0.24",
+    "hardhat": "^2.0.5"
+  },
+  "dependencies": {
+    "@chainlink/contracts": "0.0.11"
+  }
+}
